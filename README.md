@@ -1,4 +1,4 @@
-# TFvelo
+# MIGC
 
 This is the code of MIGC.
 
